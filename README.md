@@ -3,7 +3,6 @@
 Bridge Arbitrum/Ethereum to Aptos
 
 ### Установка
-
 ```
 npm i
 ```
